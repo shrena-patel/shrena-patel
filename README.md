@@ -7,4 +7,4 @@
 - 💻 + 🐕 you can find me either coding or patting a dog - preferably both at the same time
 
 
-- check out my projects below or view my [Linkedin](https://www.linkedin.com/in/shrenapatel/)
+- 📁 check out my projects below or view my [Linkedin](https://www.linkedin.com/in/shrenapatel/)
