@@ -1,4 +1,8 @@
+[![bg][banner]]
+
 ### Hi there 👋
+
+[banner]: https://raw.githubusercontent.com/shrena-patel/shrena-patel/master/banner.png
 
 <!--
 **shrena-patel/shrena-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
