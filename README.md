@@ -1,8 +1,13 @@
-[![bg][banner]]
 
-### Hi there 👋
 
-[banner]: https://raw.githubusercontent.com/shrena-patel/shrena-patel/master/banner.png
+<h2> hi there, i'm shrena. </h2>
+<ul>
+  <li>web developer living in wellington, new zealand</li>
+  <li>lover of learning, building other people up and exploring nature</li>
+  <li>you can find me either coding or patting a dog - preferably both at the same time</li>
+<ul>
+
+
 
 <!--
 **shrena-patel/shrena-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
