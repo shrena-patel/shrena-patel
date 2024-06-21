@@ -1,6 +1,6 @@
 # Kia ora!
 
-- 💻 A front-end developer based in Pōneke, Aotearoa (Wellington, New Zealand)
+- 💻 I'm a front-end developer based in Pōneke, Aotearoa (Wellington, New Zealand)
 - 💬 Always up for chatting about digital accessibility and inclusive design
 - 👚 I’m currently working on [Wear Wise](https://github.com/shrena-patel/wear-wise), an app to track my second-hand clothing purchases and sales
 - 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/shrenapatel)
